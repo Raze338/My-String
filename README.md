@@ -14,7 +14,7 @@
 
     - [Task 2](#task-2)
         - [Review](#review-1)
-        - [''my_string' Class with Reference Counter Implementation Breakdown](#my_string-class-with-reference-counter-implementation-breakdown)
+        - ['my_string' Class with Reference Counter Implementation Breakdown](#my_string-class-with-reference-counter-implementation-breakdown)
         - [Output](#output-1)
 
 
